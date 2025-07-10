@@ -19,14 +19,23 @@ A dedicated control panel for a mobile service center, built by **Flutter** desi
 * **Requests Dashboard & Reporting**: A dedicated section provides detailed statistics on all service requests. Custom reports can be generated for requests and payments within a selected date range, with powerful filtering options available for granular analysis.
 
 ## Screenshots
-<img width="626" alt="Screenshot 2025-05-24 at 8:13:51 PM" src="https://github.com/user-attachments/assets/53317ce9-5284-4867-8896-29e38062716e" />
-<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 21 34 PM" src="[https://github.com/user-attachments/assets/1d54cd5f-8217-4b5b-bb6d-0b812becbd92](https://github.com/user-attachments/assets/5f7bdf47-6c98-4f4b-bfef-95d824c68eca)" />
-<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 14 27 PM" src="https://github.com/user-attachments/assets/1d54cd5f-8217-4b5b-bb6d-0b812becbd92" />
-<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 14 27 PM" src="https://github.com/user-attachments/assets/1a320b93-538a-4278-b321-3f6b31a4eb0d" />
-<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 15 03 PM" src="https://github.com/user-attachments/assets/b4bfeb3f-9149-42c9-9cba-9c8a8858b594" />
-<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 19 27 PM" src="https://github.com/user-attachments/assets/9568e242-73d1-4b00-82b3-d85cd59740e4" />
-<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 19 46 PM" src="https://github.com/user-attachments/assets/1dba400e-2423-4610-b654-0ccc0dbb0687" />
-<img width="1920" height="1080" alt="Screenshot 2025-05-25 at 7 04 15 PM" src="https://github.com/user-attachments/assets/4d8dbf3e-b2f5-4cc4-87f8-b6ac3336a330" />
+** Home Page (Orders Page)
+<img width="626" alt="Orders Page Screenshot" src="https://github.com/user-attachments/assets/53317ce9-5284-4867-8896-29e38062716e" /> <img width="626" alt="Orders Page Screenshot 2" src="https://github.com/user-attachments/assets/e2da99df-e3aa-4222-8b89-4dff91a7e37e" />
+
+** Payments Page
+<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 14 27 PM" src="https://github.com/user-attachments/assets/56036364-7bc8-4ec8-94e6-31c5c3264bf5" />
+
+** Reports Page
+<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 14 52 PM" src="https://github.com/user-attachments/assets/c5e6eecc-2d0a-4273-84a3-f2b845d73fa0" />
+
+** Charts Page
+<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 15 03 PM" src="https://github.com/user-attachments/assets/ac44f682-079e-462f-adec-06c5334cfc5b" />
+<img width="1920" height="1080" alt="Screenshot 2025-05-25 at 7 04 15 PM" src="https://github.com/user-attachments/assets/59f047b4-f85e-4ddc-b51e-8f8d02bbf20f" />
+
+** Settings Page
+<img width="1469" height="829" alt="Screenshot 2025-07-10 at 4 35 58 PM" src="https://github.com/user-attachments/assets/968e4c6e-3774-4b6d-98ce-a46c9993e5ad" />
+<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 19 27 PM" src="https://github.com/user-attachments/assets/d3e6e6c4-1171-4883-af20-aae7b2d5cf72" />
+
 
 ## Used Dependencies 
 * **HTTP**: For making HTTP requests to fetch data from APIs.
