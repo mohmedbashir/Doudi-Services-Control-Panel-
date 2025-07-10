@@ -1,5 +1,5 @@
 
-![ic_launcher](https://github.com/user-attachments/assets/e1758a7f-7190-418d-b048-66641e915581)
+<img width="430" height="430" alt="app_icon" src="https://github.com/user-attachments/assets/7742ba0d-e6e4-4faa-b07c-42674de584eb" />
 # Madrasaty
 
 It’s a mobile application built with Flutter that follows the MVC (Model-View-Controller) architectural pattern. This app improves communication and tracking between students and schools by providing students with access to assignments, grades, attendance, and more.
