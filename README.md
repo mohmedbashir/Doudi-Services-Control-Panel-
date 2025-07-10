@@ -3,13 +3,17 @@
 
 # Doudi Services (Control Panel)
 
-A dedicated control panel for a mobile service center, built using **Flutter**  designed to manage various service requests such as internet packages, SIM card issuance, router installation requests, and more. The panel receives incoming requests submitted by app users (branch managers), which are then processed accordingly—either fulfilled, escalated, or handled based on the type of service required.
+A dedicated control panel for a mobile service center, built by **Flutter** designed to manage various service requests such as internet packages, SIM card issuance, router installation requests, and more. The panel receives incoming requests submitted by app users (branch managers), which are then processed accordingly—either fulfilled, escalated, or handled based on the type of service required.
 
 ## Key Features
-* **Student Dashboard**: Provides access to assignments, announcements, grades, and attendance records
-* **Parental Control**: Enables parents to use their child's ID number for parental control.
-* **Instructor Communication and Notifications**: Allows students to communicate with instructors and receive notifications for upcoming tests and events.
-* **Teacher Management**: there is a separate app version for teachers to manage assignments, interact with students, and view important information.
+* **User-Friendly Interface**: The control panel is designed with a clear and intuitive interface to ensure ease of use for all roles.
+* **Role-Based Access Control**: The system includes a clear separation of duties with multiple access levels: 
+ - Administrator: Has full access, including adding, editing, or deleting users; modifying service details and pricing; managing payments; and viewing detailed reports.
+ - Request Manager: Handles incoming service requests, forwards them to the appropriate departments, and verifies the completeness of submitted data.
+ - Verification Officer: Responsible for contacting service requesters to confirm that services have been properly delivered, and updating the request status directly within the control panel.
+
+* **Notifications System**: Real-time alerts are sent for critical actions, such as rejection of incomplete requests or reminders to branch managers regarding pending payments.
+* **Requests Dashboard & Reporting**: A dedicated section provides detailed statistics on all service requests. Custom reports can be generated for requests and payments within a selected date range, with powerful filtering options available for granular analysis.
 
 ## Screenshots
 <img width="626" alt="Screenshot 2024-08-12 at 7 33 16 PM" src="https://github.com/user-attachments/assets/03bbe85e-f463-4c45-8ca6-f90360d9402d">
