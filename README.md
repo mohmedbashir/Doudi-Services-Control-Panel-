@@ -48,8 +48,7 @@ A dedicated control panel for a mobile service center, built by **Flutter** desi
 
 
 ## Used Dependencies 
-* **HTTP**: For making HTTP requests to fetch data from APIs.
-* **getx**: For state management, routing, and dependency injection.
-* **shared_preferences**:For storing small amounts of data locally on the device.
-* **pdf**: For generating and manipulating PDF documents.
-* **intl**: For internationalization, localization, and formatting dates, numbers, and currencies.
+* **firebase_core**: Initializes Firebase services, acting as the foundation for all Firebase integrations in a Flutter app.
+* **firebase_messaging**: Enables push notifications via Firebase Cloud Messaging (FCM), allowing real-time user engagement.
+* **flutter_bloc**: Provides structured state management using the BLoC pattern, promoting clean and testable code architecture.
+* **flutter_screenutil**: Helps build responsive UIs by adapting sizes, paddings, and fonts to various screen dimensions.
