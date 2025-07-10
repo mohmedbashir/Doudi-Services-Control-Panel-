@@ -1,9 +1,9 @@
 
 <img width="150" height="150" alt="app_icon" src="https://github.com/user-attachments/assets/7742ba0d-e6e4-4faa-b07c-42674de584eb" />
 
-# Madrasaty
+# Doudi Services (Control Panel)
 
-It’s a mobile application built with Flutter that follows the MVC (Model-View-Controller) architectural pattern. This app improves communication and tracking between students and schools by providing students with access to assignments, grades, attendance, and more.
+A dedicated control panel for a mobile service center, built using **Flutter**  designed to manage various service requests such as internet packages, SIM card issuance, router installation requests, and more. The panel receives incoming requests submitted by app users (branch managers), which are then processed accordingly—either fulfilled, escalated, or handled based on the type of service required.
 
 ## Key Features
 * **Student Dashboard**: Provides access to assignments, announcements, grades, and attendance records
