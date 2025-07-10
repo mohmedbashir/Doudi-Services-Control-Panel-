@@ -19,8 +19,8 @@ A dedicated control panel for a mobile service center, built by **Flutter** desi
 * **Requests Dashboard & Reporting**: A dedicated section provides detailed statistics on all service requests. Custom reports can be generated for requests and payments within a selected date range, with powerful filtering options available for granular analysis.
 
 ## Screenshots
-<img width="626" alt="![Screenshot 2025-05-24 at 8 13 51 PM](https://github.com/user-attachments/assets/53317ce9-5284-4867-8896-29e38062716e)
-">
+<img width="626" alt="Screenshot 2025-05-24 at 8:13:51 PM" src="https://github.com/user-attachments/assets/53317ce9-5284-4867-8896-29e380627
+
 <img width="625" alt="Screenshot 2024-08-12 at 7 33 49 PM" src="https://github.com/user-attachments/assets/31cd515f-203c-4c65-8696-f491c69b8a0e">
 <img width="625" alt="Screenshot 2024-08-12 at 7 34 36 PM" src="https://github.com/user-attachments/assets/6bff43c4-942f-4a08-b281-380ded351592">
 <img width="625" alt="Screenshot 2024-08-12 at 7 33 59 PM" src="https://github.com/user-attachments/assets/017e4659-7246-4188-a54a-a76abe4097ba">
