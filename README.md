@@ -52,3 +52,4 @@ A dedicated control panel for a mobile service center, built by **Flutter** desi
 * **firebase_messaging**: Enables push notifications via Firebase Cloud Messaging (FCM), allowing real-time user engagement.
 * **flutter_bloc**: Provides structured state management using the BLoC pattern, promoting clean and testable code architecture.
 * **flutter_screenutil**: Helps build responsive UIs by adapting sizes, paddings, and fonts to various screen dimensions.
+* **intl**: Provides internationalization and localization support, including date, number, and message formatting for multiple languages.
