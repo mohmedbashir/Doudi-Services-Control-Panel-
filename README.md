@@ -20,9 +20,13 @@ A dedicated control panel for a mobile service center, built by **Flutter** desi
 
 ## Screenshots
 <img width="626" alt="Screenshot 2025-05-24 at 8:13:51 PM" src="https://github.com/user-attachments/assets/53317ce9-5284-4867-8896-29e38062716e" />
-<img width="625" alt="Screenshot 2024-08-12 at 7 33 49 PM" src="https://github.com/user-attachments/assets/31cd515f-203c-4c65-8696-f491c69b8a0e">
-<img width="625" alt="Screenshot 2024-08-12 at 7 34 36 PM" src="https://github.com/user-attachments/assets/6bff43c4-942f-4a08-b281-380ded351592">
-<img width="625" alt="Screenshot 2024-08-12 at 7 33 59 PM" src="https://github.com/user-attachments/assets/017e4659-7246-4188-a54a-a76abe4097ba">
+<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 21 34 PM" src="[https://github.com/user-attachments/assets/1d54cd5f-8217-4b5b-bb6d-0b812becbd92](https://github.com/user-attachments/assets/5f7bdf47-6c98-4f4b-bfef-95d824c68eca)" />
+<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 14 27 PM" src="https://github.com/user-attachments/assets/1d54cd5f-8217-4b5b-bb6d-0b812becbd92" />
+<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 14 27 PM" src="https://github.com/user-attachments/assets/1a320b93-538a-4278-b321-3f6b31a4eb0d" />
+<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 15 03 PM" src="https://github.com/user-attachments/assets/b4bfeb3f-9149-42c9-9cba-9c8a8858b594" />
+<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 19 27 PM" src="https://github.com/user-attachments/assets/9568e242-73d1-4b00-82b3-d85cd59740e4" />
+<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 19 46 PM" src="https://github.com/user-attachments/assets/1dba400e-2423-4610-b654-0ccc0dbb0687" />
+<img width="1920" height="1080" alt="Screenshot 2025-05-25 at 7 04 15 PM" src="https://github.com/user-attachments/assets/4d8dbf3e-b2f5-4cc4-87f8-b6ac3336a330" />
 
 ## Used Dependencies 
 * **HTTP**: For making HTTP requests to fetch data from APIs.
