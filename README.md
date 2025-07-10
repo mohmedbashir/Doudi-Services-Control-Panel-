@@ -8,9 +8,9 @@ A dedicated control panel for a mobile service center, built by **Flutter** desi
 ## Key Features
 * **User-Friendly Interface**: The control panel is designed with a clear and intuitive interface to ensure ease of use for all roles.
 * **Role-Based Access Control**: The system includes a clear separation of duties with multiple access levels: 
- -- Administrator: Has full access, including adding, editing, or deleting users; modifying service details and pricing; managing payments; and viewing detailed reports.
- -- Request Manager: Handles incoming service requests, forwards them to the appropriate departments, and verifies the completeness of submitted data.
- -- Verification Officer: Responsible for contacting service requesters to confirm that services have been properly delivered, and updating the request status directly within the control panel.
+ • Administrator: Has full access, including adding, editing, or deleting users; modifying service details and pricing; managing payments; and viewing detailed reports.
+ • Request Manager: Handles incoming service requests, forwards them to the appropriate departments, and verifies the completeness of submitted data.
+ • Verification Officer: Responsible for contacting service requesters to confirm that services have been properly delivered, and updating the request status directly within the control panel.
 
 * **Notifications System**: Real-time alerts are sent for critical actions, such as rejection of incomplete requests or reminders to branch managers regarding pending payments.
 * **Requests Dashboard & Reporting**: A dedicated section provides detailed statistics on all service requests. Custom reports can be generated for requests and payments within a selected date range, with powerful filtering options available for granular analysis.
