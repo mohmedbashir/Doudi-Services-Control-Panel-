@@ -3,47 +3,47 @@
 
 # Doudi Services (Control Panel)
 
-A dedicated control panel for a mobile service center, built by **Flutter** designed to manage various service requests such as internet packages, SIM card issuance, router installation requests, and more. The panel receives incoming requests submitted by app users (branch managers), which are then processed accordingly—either fulfilled, escalated, or handled based on the type of service required.
+A dedicated mobile application for branch managers of Doudi Services, built using Flutter, designed to simplify and streamline the process of submitting customer service requests directly to the control panel for processing and execution.
+
+This app serves as the bridge between customers and the operations team—allowing managers to quickly create and track orders for services like internet packages, SIM issuance, router installation, and more.
 
 ## Key Features
-* **User-Friendly Interface**: The control panel is designed with a clear and intuitive interface to ensure ease of use for all roles.
-* **Role-Based Access Control**: The system includes a clear separation of duties with multiple access levels:
- 
- • Administrator: Has full access, including adding, editing, or deleting users; modifying service details and pricing; managing payments; and viewing detailed reports.
+* **User-Friendly Interface**: Designed with branch managers in mind—making it easy to submit and manage customer service requests on the go.
 
- • Request Manager: Handles incoming service requests, forwards them to the appropriate departments, and verifies the completeness of submitted data.
+* **Order Submission**: Quickly send new customer orders (e.g., router installation, SIM card issuance) directly to the central control panel. Orders are processed in real-time.
 
- • Verification Officer: Responsible for contacting service requesters to confirm that services have been properly delivered, and updating the request status directly within the control panel.
+* **Request Tracking**: Stay updated on the status of all submitted orders—whether they’re approved, rejected, or completed—with detailed request history.
 
-* **Notifications System**: Real-time alerts are sent for critical actions, such as rejection of incomplete requests or reminders to branch managers regarding pending payments.
-* **Requests Dashboard & Reporting**: A dedicated section provides detailed statistics on all service requests. Custom reports can be generated for requests and payments within a selected date range, with powerful filtering options available for granular analysis.
+* **Push Notifications**: Receive instant alerts for updates, such as request approvals, required actions, or payment reminders.
+
+
+
 
 ## Screenshots
-**Home Page (Orders Page):**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6c97e74f-d161-4172-9eae-faabd126d409" width="33%" />
+  <img src="https://github.com/user-attachments/assets/332c8316-2a69-4892-98a2-dbf796fde1ed" width="33%" />
+  <img src="Screenshot_1752325719" src="https://github.com/user-attachments/assets/bd21082a-d4d3-4b62-8288-9ad2639ae822" width="33%" />
 
-<img width="626" alt="Orders Page Screenshot" src="https://github.com/user-attachments/assets/53317ce9-5284-4867-8896-29e38062716e" /> <img width="626" alt="Orders Page Screenshot 2" src="https://github.com/user-attachments/assets/e2da99df-e3aa-4222-8b89-4dff91a7e37e" />
-
-
-**Payments Page:**
-
-<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 14 27 PM" src="https://github.com/user-attachments/assets/56036364-7bc8-4ec8-94e6-31c5c3264bf5" />
-
-
-**Reports Page:**
-
-<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 14 52 PM" src="https://github.com/user-attachments/assets/c5e6eecc-2d0a-4273-84a3-f2b845d73fa0" />
-
-
-**Charts Page:**
-
-<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 15 03 PM" src="https://github.com/user-attachments/assets/ac44f682-079e-462f-adec-06c5334cfc5b" />
-<img width="1920" height="1080" alt="Screenshot 2025-05-25 at 7 04 15 PM" src="https://github.com/user-attachments/assets/59f047b4-f85e-4ddc-b51e-8f8d02bbf20f" />
-
-
-**Settings Page:**
-
-<img width="1469" height="829" alt="Screenshot 2025-07-10 at 4 35 58 PM" src="https://github.com/user-attachments/assets/968e4c6e-3774-4b6d-98ce-a46c9993e5ad" />
-<img width="1920" height="1080" alt="Screenshot 2025-05-24 at 8 19 27 PM" src="https://github.com/user-attachments/assets/d3e6e6c4-1171-4883-af20-aae7b2d5cf72" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7b724a4d-b38c-44e4-906b-4570941438ee" width="15%" />
+  <img src="https://github.com/user-attachments/assets/c6182dbc-98c9-4f9f-9355-8e9619bb9aaf" width="15%" />
+  <img src="https://github.com/user-attachments/assets/670e82fc-e876-41cc-86af-236f5b2c989d" width="15%" />
+  <img src="https://github.com/user-attachments/assets/90d16f35-99dc-4076-b00b-9038dee9f6f2" width="15%"/>
+  <img src="https://github.com/user-attachments/assets/3385f582-1282-4415-a7df-880f4dae54b4" width="15%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ceaee69-84be-4477-bc58-18a5b0dea8ed" width="15%" />
+  <img src="https://github.com/user-attachments/assets/bec695b9-331b-4601-8863-a5cb6f4f7d88" width="15%" />
+  <img src="https://github.com/user-attachments/assets/b8c1865e-de41-45c7-9188-0b3a47b3727f" width="15%" />
+  <img src="https://github.com/user-attachments/assets/0ce37fd0-8102-45d5-a1da-6d05598e237d" width="15%"/>
+  <img src="https://github.com/user-attachments/assets/c2857d0b-6cac-496d-8bd5-2d9a2c2903d3" width="15%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7266720c-7356-4901-8da6-9ffe620f2c98" width="15%" />
+  <img src="https://github.com/user-attachments/assets/55db60c4-c9ea-4e64-a04c-a82d3971397a" width="15%" />
+</p>
 
 
 
