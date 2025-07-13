@@ -1,7 +1,7 @@
 
 <img width="150" height="150" alt="app_icon" src="https://github.com/user-attachments/assets/7742ba0d-e6e4-4faa-b07c-42674de584eb" />
 
-# Doudi Services (Control Panel)
+# Doudi Services (Branch Manager App)
 
 A dedicated mobile application for branch managers of Doudi Services, built using Flutter, designed to simplify and streamline the process of submitting customer service requests directly to the control panel for processing and execution.
 
@@ -32,7 +32,6 @@ This app serves as the bridge between customers and the operations team—allowi
   <img src="https://github.com/user-attachments/assets/a5a672ab-0252-4f4a-a1ef-cdf540360cf2" width="33%" />
   <img src="https://github.com/user-attachments/assets/332c8316-2a69-4892-98a2-dbf796fde1ed" width="33%" />
 </p>
-
 
 
 ## Used Dependencies 
