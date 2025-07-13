@@ -15,7 +15,7 @@ This app serves as the bridge between customers and the operations team—allowi
 * **Request Tracking**: Stay updated on the status of all submitted orders—whether they’re approved, rejected, or completed—with detailed request history.
 
 * **Push Notifications**: Receive instant alerts for updates, such as request approvals, required actions, or payment reminders.
-<img width="1440" height="3120" alt="Screenshot_1752326287" src="https://github.com/user-attachments/assets/c921684d-9977-4d91-b671-00ee5e9b4bdb" />
+
 
 ## Screenshots
 <p align="center">
@@ -30,8 +30,8 @@ This app serves as the bridge between customers and the operations team—allowi
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a5a672ab-0252-4f4a-a1ef-cdf540360cf2" width="33%" />
-  <img src="https://github.com/user-attachments/assets/4626a070-85db-49ca-ac54-eeaab8238c23" width="33%" />
   <img src="https://github.com/user-attachments/assets/c921684d-9977-4d91-b671-00ee5e9b4bdb" width="33%" />
+  <img src="https://github.com/user-attachments/assets/4626a070-85db-49ca-ac54-eeaab8238c23" width="33%" />
 </p>
 
 
