@@ -17,33 +17,25 @@ This app serves as the bridge between customers and the operations team—allowi
 * **Push Notifications**: Receive instant alerts for updates, such as request approvals, required actions, or payment reminders.
 
 
-
-<img width="1440" height="3120" alt="Screenshot_1752325719" src="https://github.com/user-attachments/assets/f72a6cbf-c690-4c94-9046-f37bf26f404e" />
+<img width="1440" height="3120" alt="Screenshot_1752326243" src="https://github.com/user-attachments/assets/ad89995b-fb5d-4d7e-a98c-0700d259edd4" />
+<img width="1440" height="3120" alt="Screenshot_1752326232" src="https://github.com/user-attachments/assets/63d8c568-0fb4-43e7-9a1f-5cf27f1746c2" />
+<img width="1440" height="3120" alt="Screenshot_1752325754" src="https://github.com/user-attachments/assets/c441126e-df88-48f8-a915-7afaa5a84cd3" />
 
 ## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6c97e74f-d161-4172-9eae-faabd126d409" width="33%" />
-  <img src="https://github.com/user-attachments/assets/332c8316-2a69-4892-98a2-dbf796fde1ed" width="33%" />
   <img src="https://github.com/user-attachments/assets/f72a6cbf-c690-4c94-9046-f37bf26f404e" width="33%" />
-
+  <img src="https://github.com/user-attachments/assets/332c8316-2a69-4892-98a2-dbf796fde1ed" width="33%" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7b724a4d-b38c-44e4-906b-4570941438ee" width="15%" />
-  <img src="https://github.com/user-attachments/assets/c6182dbc-98c9-4f9f-9355-8e9619bb9aaf" width="15%" />
-  <img src="https://github.com/user-attachments/assets/670e82fc-e876-41cc-86af-236f5b2c989d" width="15%" />
-  <img src="https://github.com/user-attachments/assets/90d16f35-99dc-4076-b00b-9038dee9f6f2" width="15%"/>
-  <img src="https://github.com/user-attachments/assets/3385f582-1282-4415-a7df-880f4dae54b4" width="15%" />
+  <img src="https://github.com/user-attachments/assets/c441126e-df88-48f8-a915-7afaa5a84cd3" width="33%" />
+  <img src="https://github.com/user-attachments/assets/63d8c568-0fb4-43e7-9a1f-5cf27f1746c2" width="33%" />
+  <img src="https://github.com/user-attachments/assets/ad89995b-fb5d-4d7e-a98c-0700d259edd4" width="33%" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0ceaee69-84be-4477-bc58-18a5b0dea8ed" width="15%" />
-  <img src="https://github.com/user-attachments/assets/bec695b9-331b-4601-8863-a5cb6f4f7d88" width="15%" />
-  <img src="https://github.com/user-attachments/assets/b8c1865e-de41-45c7-9188-0b3a47b3727f" width="15%" />
-  <img src="https://github.com/user-attachments/assets/0ce37fd0-8102-45d5-a1da-6d05598e237d" width="15%"/>
-  <img src="https://github.com/user-attachments/assets/c2857d0b-6cac-496d-8bd5-2d9a2c2903d3" width="15%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7266720c-7356-4901-8da6-9ffe620f2c98" width="15%" />
-  <img src="https://github.com/user-attachments/assets/55db60c4-c9ea-4e64-a04c-a82d3971397a" width="15%" />
+  <img src="https://github.com/user-attachments/assets/6c97e74f-d161-4172-9eae-faabd126d409" width="33%" />
+  <img src="https://github.com/user-attachments/assets/f72a6cbf-c690-4c94-9046-f37bf26f404e" width="33%" />
+  <img src="https://github.com/user-attachments/assets/332c8316-2a69-4892-98a2-dbf796fde1ed" width="33%" />
 </p>
 
 
