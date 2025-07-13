@@ -18,12 +18,13 @@ This app serves as the bridge between customers and the operations team—allowi
 
 
 
+<img width="1440" height="3120" alt="Screenshot_1752325719" src="https://github.com/user-attachments/assets/f72a6cbf-c690-4c94-9046-f37bf26f404e" />
 
 ## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6c97e74f-d161-4172-9eae-faabd126d409" width="33%" />
   <img src="https://github.com/user-attachments/assets/332c8316-2a69-4892-98a2-dbf796fde1ed" width="33%" />
-  <img src="Screenshot_1752325719" src="https://github.com/user-attachments/assets/bd21082a-d4d3-4b62-8288-9ad2639ae822" width="33%" />
+  <img src="https://github.com/user-attachments/assets/f72a6cbf-c690-4c94-9046-f37bf26f404e" width="33%" />
 
 </p>
 <p align="center">
