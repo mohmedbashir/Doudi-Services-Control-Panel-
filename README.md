@@ -19,19 +19,19 @@ This app serves as the bridge between customers and the operations team—allowi
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c97e74f-d161-4172-9eae-faabd126d409" width="33%" />
-  <img src="https://github.com/user-attachments/assets/f72a6cbf-c690-4c94-9046-f37bf26f404e" width="33%" />
-  <img src="https://github.com/user-attachments/assets/332c8316-2a69-4892-98a2-dbf796fde1ed" width="33%" />
+  <img src="https://github.com/user-attachments/assets/6c97e74f-d161-4172-9eae-faabd126d409" width="25%" />
+  <img src="https://github.com/user-attachments/assets/f72a6cbf-c690-4c94-9046-f37bf26f404e" width="25%" />
+  <img src="https://github.com/user-attachments/assets/332c8316-2a69-4892-98a2-dbf796fde1ed" width="25%" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c441126e-df88-48f8-a915-7afaa5a84cd3" width="33%" />
-  <img src="https://github.com/user-attachments/assets/63d8c568-0fb4-43e7-9a1f-5cf27f1746c2" width="33%" />
-  <img src="https://github.com/user-attachments/assets/ad89995b-fb5d-4d7e-a98c-0700d259edd4" width="33%" />
+  <img src="https://github.com/user-attachments/assets/c441126e-df88-48f8-a915-7afaa5a84cd3" width="25%" />
+  <img src="https://github.com/user-attachments/assets/63d8c568-0fb4-43e7-9a1f-5cf27f1746c2" width="25%" />
+  <img src="https://github.com/user-attachments/assets/ad89995b-fb5d-4d7e-a98c-0700d259edd4" width="25%" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a5a672ab-0252-4f4a-a1ef-cdf540360cf2" width="33%" />
-  <img src="https://github.com/user-attachments/assets/c921684d-9977-4d91-b671-00ee5e9b4bdb" width="33%" />
-  <img src="https://github.com/user-attachments/assets/4626a070-85db-49ca-ac54-eeaab8238c23" width="33%" />
+  <img src="https://github.com/user-attachments/assets/a5a672ab-0252-4f4a-a1ef-cdf540360cf2" width="25%" />
+  <img src="https://github.com/user-attachments/assets/c921684d-9977-4d91-b671-00ee5e9b4bdb" width="25%" />
+  <img src="https://github.com/user-attachments/assets/4626a070-85db-49ca-ac54-eeaab8238c23" width="25%" />
 </p>
 
 
